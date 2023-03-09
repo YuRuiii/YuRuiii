@@ -1,10 +1,15 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuRuiii&show_icons=true&theme=radical)
+✨ Hi, I’m *YuRuiii*.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuRuiii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+An undergraduate @*Nanjing University*, currently interested Machine Learning and Reinforcement Learning
 
-- 👋 Hi, I’m @YuRuiii
-- 🌱 An undergraduate student of NJUAI
-- ✨ A noob in Machine Learning and Reinforcement Learning
+My github stats looks like...
+
+<p align="center">
+<img src=https://visitor-badge.glitch.me/badge?page_id=YuRuiii/YuRuiii/README.md width=100>
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YuRuiii&show_icons=true&include_all_commits=true&count_private=true&hide=prs&theme=radical">
+</p>
 
 <!---
 YuRuiii/YuRuiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
