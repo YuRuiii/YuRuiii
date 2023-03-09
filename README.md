@@ -5,9 +5,6 @@ An undergraduate @*Nanjing University*, currently interested Machine Learning an
 My github stats looks like...
 
 <p align="center">
-<img src=https://visitor-badge.glitch.me/badge?page_id=YuRuiii/YuRuiii/README.md width=100>
-</p>
-<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YuRuiii&show_icons=true&include_all_commits=true&count_private=true&hide=prs&theme=radical">
 </p>
 
