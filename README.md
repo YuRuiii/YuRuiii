@@ -1,16 +1,14 @@
-✨ Hi, I’m *YuRuiii*.
+Doctors: Googling stuff online does not make you a doctor
 
-An undergraduate @*Nanjing University*, currently interested Machine Learning and Reinforcement Learning.
+Me on GitHub:
 
+<img src="meme.png" alt="meme" style="zoom: 33%;" />
 
+About me:
 
-<!-- My github stats looks like...
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YuRuiii&show_icons=true&include_all_commits=true&count_private=true&hide=prs&theme=radical">
-</p> -->
-
-<!---
-YuRuiii/YuRuiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Senior student @Nanjing University, majoring in Artificial Intelligence
+- Rookie in field of Reinforcement Learning and Deep Learning
+- Currently working on: 
+  - Application of RL on financial trading
+  - A toolbox for Visual RL
+  - Another toolbox for GPU performance analysis
