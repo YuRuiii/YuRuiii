@@ -7,7 +7,7 @@ Me on GitHub:
 About me:
 
 - Senior student @Nanjing University, majoring in Artificial Intelligence
-- Rookie in field of Reinforcement Learning and Deep Learning
+- Rookie in the field of Reinforcement Learning and Deep Learning
 - Currently working on: 
   - Application of RL on financial trading
   - A toolbox for Visual RL
