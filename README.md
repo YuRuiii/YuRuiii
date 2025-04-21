@@ -1,9 +1,3 @@
-Doctors: Googling stuff online does not make you a doctor
-
-Me on GitHub:
-
-<img src="meme.png" alt="meme" style="zoom: 33%;" />
-
 About me:
 
 - Senior student @Nanjing University, majoring in Artificial Intelligence
